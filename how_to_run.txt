@@ -1,0 +1,4 @@
+///////////// HOW TO RUN ///////////////
+
+How to compile: javac VectorClock.java 
+How to run: java VectorClock <config> <line> <input>
